@@ -1,0 +1,4 @@
+- Mundial 2014
+- Europeo 2016
+- Mundial 2018
+- Europeo 2020 (non se celebrou kiniporra)
