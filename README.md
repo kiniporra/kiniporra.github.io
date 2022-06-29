@@ -3,7 +3,7 @@
 _**CO**losal **KI**niela**P**orra 20**22**_  
 [](https://emoticonos) [](https://gist.github.com/rxaviers/7360908) [](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-Tras anos de espera pola **`covid-19`** :mask:  
+Tras anos de espera pola **`covid-19`**  
 &nbsp; ... &nbsp;por fin xa está aquí a **`cokip-22`**  
 
 - En breve, formulario para inscrición online[](https://docs.google.com/forms/d/e/1FAIpQLSf4IL-8piPTv2mk3eZRv8ybTWkJXW0aL4-6XjX2crJjcds5uQ/viewform)
