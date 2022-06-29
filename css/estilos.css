@@ -1,0 +1,415 @@
+body {
+	font-size: 10pt; font-family: verdana; background-color: #ffffff
+}
+
+.cajasform{
+	font-size:10px; color:#7b7b7b; font-family:verdana; font-weight:normal;
+	border-color:#7b7b7b; border:solid; border-width:1pt;
+}
+.botoform{
+	font-size:10px; color:#ffffff; font-family:verdana; font-weight:bold;
+	border:solid; border-width:1pt; background:#000000;
+}
+.optionform{
+	font-size:12px; color:#7b7b7b; font-family:verdana;
+}
+.text1 {
+	font-size:10px; color:#000000; font-family:verdana; font-weight:normal;
+}
+.fecha {
+	font-size:10px; color:#000000; font-family:verdana; font-weight:normal;
+  vertical-align: middle; text-align: right;
+}
+.textr {
+	font-size:10px; color:#6A190C; font-family:verdana; font-weight:normal;
+}
+.textb {
+	font-size:10px; color:#FFFFFF; font-family:verdana; font-weight:normal; letter-spacing:1pt;
+}
+.textbe {
+	font-size:10px; color:#FFFFFF; font-family:verdana; font-weight:normal;
+}
+.textbe1 {
+	font-size:9px; color:#FFFFFF; font-family:verdana; font-weight:bold;
+	text-align: center;
+}
+.text1v {
+	font-size:11px; color:#721300; font-family:verdana; font-weight:normal;
+}
+.gris {
+	font-size:10px; color:#aaaaaa; font-family:verdana; font-weight:normal;
+}
+.info {
+	font-size:10px; color:#0000ff; font-family:verdana; font-weight:normal;
+	text-align: center;
+}
+.info_ht {
+	font-size:10px; color:#267f30; font-family:verdana; font-weight:bold;
+	text-align: center;
+}
+.info_anuncio {
+	font-size:10px; color:#ff0000; font-family:verdana; font-weight:bold;
+	text-align: center;
+}
+.txterror {
+	font-size:10px; color:#ff0000; font-family:verdana; font-weight:normal;
+}
+
+.linkn:link{
+	color: #000000 ; font-family: verdana ;  text-decoration: none ;
+}
+.linkn2:link{
+	color: #999999 ; font-family: verdana ;  text-decoration: none ;
+}
+.linknu:link{
+	color: #000000 ; font-family: verdana ;  text-decoration: underline ;
+}
+.linkht:link{
+	color: #267f30 ; font-family: verdana ;  text-decoration: underline ;
+}
+.linkb:link{
+	color: #FFFFFF ; font-family: verdana ;  text-decoration: none ;
+}
+
+.linkn:visited{
+	color: #000000 ; font-family: verdana ;  text-decoration: none ;
+}
+.linkn2:visited{
+	color: #999999 ; font-family: verdana ;  text-decoration: none ;
+}
+.linknu:visited{
+	color: #000000 ; font-family: verdana ;  text-decoration: underline ;
+}
+.linkht:visited{
+	color: #267f30 ; font-family: verdana ;  text-decoration: underline ;
+}
+
+.linkn:hover{
+	color: #000000 ; font-family: verdana ;  text-decoration: underline ;
+}
+.linkn2:hover{
+	color: #999999 ; font-family: verdana ;  text-decoration: underline ;
+}
+.linknu:hover{
+	color: #000000 ; font-family: verdana ;  text-decoration: none ;
+}
+.linkht:hover{
+	color: #267f30 ; font-family: verdana ;  text-decoration: none ;
+}
+
+.linkr:link{
+	color: #6A190C ; font-family: verdana ;  text-decoration: underline;
+}
+.linkr:visited{
+	color: #6A190C ; font-family: verdana ;  text-decoration: underline;
+}
+.linkr:actived{
+	color: #6A190C ; font-family: verdana ;  text-decoration: underline;
+}
+.linkr:hover{
+	color: #846B66 ; font-family: verdana ;  text-decoration: none;
+}
+
+.resaltado{
+  color: #ff0000 ; font-family: verdana; background-color: #ffffff; 
+}
+.resaltadodivsup{
+  color: #ff0000 ; font-family: verdana; background-color: #ffff00; 
+}
+
+a.texto:link, a.texto:visited, a.texto:active{
+	font-family: Verdana; color: #000000; text-decoration: none; cursor: help;
+}
+a.textoB:link, a.textoB:visited, a.textoB:active{
+	font-family: Verdana; color: #ffffff; text-decoration: none; cursor: help;
+}
+a:link, a:visited, a:active{
+	font-family: Verdana; color: #267f30; text-decoration: underline;
+}
+
+a.dato:link, a.dato:visited, a.dato:active{
+	font-family: Verdana; color: #000000; text-decoration: none; cursor: help;
+	text-align : center;
+}
+a.ht {
+  color: #ffffff;
+}
+a.red {
+	color: #ff0000; font-weight: bold;
+}
+
+h1 {
+  font-weight: bold; font-size: 12pt; line-height: 14pt; font-family: verdana;
+}
+/*h1.titulo {
+	background-color: #267f30; font-weight: bold; font-size: 12pt;
+	line-height: 14pt; font-family: verdana; color: #ffffff;
+}*/
+h1.titulo {
+	background-color: #ccddcc; font-weight: bold; font-size: 12pt;
+	line-height: 14pt; font-family: verdana; color: #000000;
+}
+h1.titulo1 {
+	background-color: #267f30; font-weight: bold; font-size: 12pt;
+	line-height: 14pt; font-family: verdana; color: #ffffff; cursor: pointer;
+}
+h1.rojo {
+	background-color: #eeeeee; font-weight: bold; font-size: 12pt;
+	line-height: 14pt; font-family: verdana; color: #ff0000;
+}
+h2 {
+  font-weight: bold; font-size: 10pt; line-height: 13pt; font-family: verdana; //verdana;
+}
+/*h2.titulo {
+	background-color: #ccccff; font-weight: bold; font-size: 10pt;
+  line-height: 15pt; font-family: verdana;
+}*/
+h2.titulo {
+	background-color: #ccddcc; font-weight: bold; font-size: 10pt;
+  line-height: 15pt; font-family: verdana;
+}
+h2.titulov {
+	background-color: #267f30; font-weight: bold; font-size: 10pt;
+  line-height: 15pt; font-family: verdana; color: #ffffff; text-align: center;
+}
+h3 {
+  font-weight: bold; font-size: 9pt; line-height: 12pt; font-family: verdana;
+}
+
+
+th {
+  font-weight: bold; font-size: 8pt; font-family: verdana; background-color: #bbccbb;
+}
+th.I {
+  font-weight: bold; font-size: 8pt; font-family: verdana; background-color: #bbccbb;
+  text-align: left; padding: 10px;
+}
+/*th {
+  font-weight: bold; font-size: 8pt; font-family: verdana; background-color: #267f30;
+  color: #ffffff;
+}*/
+th.blank {
+  font-weight: bold; font-size: 8pt; font-family: verdana; background-color: #ffffff;
+}
+th.equipo {
+	font-size: 11pt; font-family: verdana; background-color: #267f30; color: #ffffff;
+}
+th.goles {
+  font-weight: bold; font-size: 13pt; font-family: verdana;
+	background-color: #267f30; color: #ffffff;
+}
+th.highlighted {
+  font-weight: bold; font-size: 8pt; font-family: verdana; background-color: #00ff00;
+}
+
+
+table.borde {
+	border:none; border-top:solid windowtext .5pt; border-bottom:solid  windowtext .5pt;
+	border-left:solid  windowtext .5pt; border-right:solid windowtext .5pt;
+}
+table.ht {
+  width:100%;
+}
+
+
+td {
+	font-size: 7pt; font-family: verdana;
+}
+td.left {
+	text-align: left; font-style: italic;
+}
+td.right {
+	text-align: right;
+}
+td.centrado {
+	text-align: center;
+}
+td.media {
+	background-color: #ccccff; text-align: center;
+}
+td.color1 {
+	background-color: #f7f7f7; text-align: center;
+}
+td.color0 {
+	background-color: #dddddd; text-align: center;
+}
+td.color1highlighted {
+	background-color: #d7f7d7; text-align: center;
+}
+td.color0highlighted {
+	background-color: #bbddbb; text-align: center;
+}
+td.color1I {
+	background-color: #f7f7f7; text-align: left;
+}
+td.color0I {
+	background-color: #dddddd; text-align: left;
+}
+td.highlight {
+	background-color: #00ff00; text-align: center;
+}
+td.highlightI {
+	background-color: #00ff00; text-align: left;
+}
+
+td.mediacero {
+	background-color: #ccccff; text-align: center;
+}
+td.mediapos {
+	background-color: #ccffcc; text-align: center;
+}
+td.medianeg {
+	background-color: #ffcccc; text-align: center;
+}
+td.ganado {
+	background-color: #ddffdd; text-align: center;
+}
+td.perdido {
+	background-color: #ffeeee; text-align: center;
+}
+td.empatado {
+	background-color: #eeeeff; text-align: center;
+}
+td.ganadoI {
+	background-color: #ddffdd; text-align: left;
+}
+td.perdidoI {
+	background-color: #ffeeee; text-align: left;
+}
+td.empatadoI {
+	background-color: #eeeeff; text-align: left;
+}
+td.ganadoD {
+	background-color: #ddffdd; text-align: right;
+}
+td.perdidoD {
+	background-color: #ffeeee; text-align: right;
+}
+td.empatadoD {
+	background-color: #eeeeff; text-align: right;
+}
+
+td.ganado1 {
+	background-color: #c8e8c8; text-align: center;
+}
+td.perdido1 {
+	background-color: #e8c8c8; text-align: center;
+}
+td.empatado1 {
+	background-color: #c8c8e8; text-align: center;
+}
+td.ganado2 {
+	background-color: #dafada; text-align: center;
+}
+td.perdido2 {
+	background-color: #fadada; text-align: center;
+}
+td.empatado2 {
+	background-color: #dadafa; text-align: center;
+}
+
+td.hinfogoles {
+	font-size: 7pt; text-align: right;
+}
+td.ainfogoles {
+	font-size: 7pt; text-align: left;
+}
+td.resparcial {
+	font-size: 7pt; text-align: center;
+}
+td.gris {
+	color: #999999; text-align:center;
+}
+td.cabecera {
+  vertical-align: middle
+}
+td.ht0 {
+  background-color: #267f30; color: #ffffff; text-align:left; width:32px;
+}
+td.ht1 {
+  background-color: #267f30; color: #ffffff; text-align:center; width:740px;
+}
+td.ht2 {
+  background-color: #267f30; color: #ffffff; text-align:center; width:28px;
+}
+td.ht3 {
+  background-color: #267f30; color: #ffffff; text-align:center; width:18px;
+}
+tr.fox {
+  height:70px;
+}
+td.fox {
+  vertical-align: bottom;
+  text-align: center;
+}
+.center {
+	text-align:center;
+}
+.resaltado {
+	background-color: #ddddff;
+}
+
+.divcenter {
+	margin: 0 auto; width: auto;
+}
+
+hr.peaso{
+  border: 0; width: 100%; color: #267f30; background-color: #267f30; height: 5px;
+}
+
+#dhtmltooltip{
+	position: absolute;
+	width: 150px;
+	border: 2px solid black;
+	padding: 2px;
+	background-color: lightyellow;
+	visibility: hidden;
+	z-index: 100;
+	/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+	filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+
+/**
+  * Entrevistas
+  */
+.iv_p1 {
+	color: #333333;
+	font-size: 8pt;
+	font-weight:bold;
+}
+
+.iv_p2 {
+	color: #333333;
+	font-size: 8pt;
+	font-weight:bold;
+}
+
+.iv_t1 {
+	color: #116611;
+}
+
+.iv_t2 {
+	color: #111166;
+}
+
+.claro {
+	color: #999999;
+}
+
+.azul {
+	color: #6666ff;
+}
+
+.texto_tooltip {
+	font-size: 6pt;
+}
+
+span.spanrojo {
+	background-color: #ff8888;
+}
+span.spanverde {
+	background-color: #88ff88;
+}
+span.spanazul {
+	background-color: #8888ff;
+}
