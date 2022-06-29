@@ -1,7 +1,7 @@
 # A POR EUROS, OEEEEE !!!
 
 ## KINIELA - PORRA MUNDIAL 2022
-- [Formulario participación](https://docs.google.com/forms/d/e/1FAIpQLSf4IL-8piPTv2mk3eZRv8ybTWkJXW0aL4-6XjX2crJjcds5uQ/viewform)
+- En breve, formulario para inscrición online[](https://docs.google.com/forms/d/e/1FAIpQLSf4IL-8piPTv2mk3eZRv8ybTWkJXW0aL4-6XjX2crJjcds5uQ/viewform)
 
 ____________
 
