@@ -1,6 +1,7 @@
 # A POR EUROS, OEEEEE !!!
 
 _**CO**losal **KI**niela**P**orra 20**22**_  
+[](https://emoticonos) [](https://gist.github.com/rxaviers/7360908) [](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 Tras anos de espera pola **`covid-19`** :mask:  
 &nbsp; ... &nbsp;por fin xa está aquí a **`cokip-22`**  
