@@ -1,6 +1,10 @@
 # A POR EUROS, OEEEEE !!!
 
 ## KINIELA - PORRA MUNDIAL 2022
+Tras 4 anos de espera por culpa da **`covid-19`** :mask:  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; por fin xa está aquí  
+... &nbsp; a &nbsp; _**CO**losal **KI**niela**P**orra 20**22**_ &nbsp; (**`cokip-22`**)   
+
 - En breve, formulario para inscrición online[](https://docs.google.com/forms/d/e/1FAIpQLSf4IL-8piPTv2mk3eZRv8ybTWkJXW0aL4-6XjX2crJjcds5uQ/viewform)
 
 ____________
