@@ -1,16 +1,13 @@
 # A POR EUROS, OEEEEE !!!
 
-_**CO**losal **KI**niela**P**orra 20**22**_  
+## _**CO**losal **KI**niela**P**orra 20**22**_  
 [](https://emoticonos) [](https://gist.github.com/rxaviers/7360908) [](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-Tras anos de espera pola **`covid-19`**  
-&nbsp; ... &nbsp;por fin xa está aquí a **`cokip-22`**  
-
-- En breve, formulario para inscrición online[](https://docs.google.com/forms/d/e/1FAIpQLSf4IL-8piPTv2mk3eZRv8ybTWkJXW0aL4-6XjX2crJjcds5uQ/viewform)
-
+- **Mundial 2022: [FORMULARIO PARA PARTICIPACIÓN ONLINE](https://forms.gle/MuMhPHWtkQpDPc9h8)**
+ 
 ____________
 
-## PALMARÉS:
+## Palmarés edicións anteriores:
 - **[Mundial 2010](https://kiniporra.github.io/previas/mundial2010_gh.htm)**: 32 países 
   - [Kiniela](https://kiniporra.github.io/previas/mundial2010_gh.htm#APOSTAS): 48 partidos  
     (1 con 30 acertos: _Sergio Mungia Rada_)
