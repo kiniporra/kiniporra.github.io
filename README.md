@@ -6,6 +6,7 @@
 - **Mundial 2022**: 32 países
   - [FORMULARIO PARA PARTICIPACIÓN ONLINE](https://forms.gle/MuMhPHWtkQpDPc9h8) (pechado desde 18/11/2022)
   - [TÁBOA DE RESULTADOS](https://docs.google.com/spreadsheets/d/1acjRvN-aXyB73pcYOjG-VaavefbGa7rW1fxKZkfBnn4/edit?usp=sharing) (prazo de corrección de erros ata día 20/11/2022)
+  - 103 participantes
 ____________
 
 ## Palmarés edicións anteriores:
