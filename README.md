@@ -3,10 +3,13 @@
 ## _**CO**losal **KI**niela**P**orra 20**22**_  
 [](https://emoticonos) [](https://gist.github.com/rxaviers/7360908) [](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-- **Mundial 2022**: 32 países
+  - **Mundial 2022**: 32 países
   - [FORMULARIO PARA PARTICIPACIÓN ONLINE](https://forms.gle/MuMhPHWtkQpDPc9h8) (pechado desde 18/11/2022)
   - [TÁBOA DE RESULTADOS](https://docs.google.com/spreadsheets/d/1acjRvN-aXyB73pcYOjG-VaavefbGa7rW1fxKZkfBnn4/edit?usp=sharing) (prazo de corrección de erros ata día 20/11/2022)
+  - [Kiniela](https://kiniporra.github.io/previas/mundial2022_gh.htm#APOSTAS): 48 partidos  
+  - [Porra](https://kiniporra.github.io/previas/mundial2022_gh.htm#PORRA)
   - 103 participantes
+  
 ____________
 
 ## Palmarés edicións anteriores:
